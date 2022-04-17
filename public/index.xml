@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rajdek.cz - software, hardware, testy, reference</title>
+    <link>http://localhost/</link>
+    <description>Recent content on rajdek.cz - software, hardware, testy, reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>CS</language><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://localhost/helloworld/</link>
+      <pubDate>Sun, 17 Apr 2022 11:53:11 +0200</pubDate>
+      
+      <guid>http://localhost/helloworld/</guid>
+      <description>Tak zkouška, ahoj světe vole!</description>
+    </item>
+    
+  </channel>
+</rss>

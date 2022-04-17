@@ -1,0 +1,5 @@
+baseURL = 'http://localhost/'
+languageCode = 'CS'
+title = 'rajdek.cz - software, hardware, testy, reference'
+
+theme = "hyde"
